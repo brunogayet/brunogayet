@@ -9,8 +9,7 @@
 brunogayet/brunogayet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Bruno Gayet Vieira Souza — Software Engineer | Product & Tech Lead
+👋 Bruno Gayet Vieira Souza — Software Engineer | Product & Tech Lead
 
 I build software and lead cross-functional teams to deliver reliable, scalable products.  
 Over 15 years working across frontend, backend, data, and DevOps—bridging product strategy with hands-on engineering.
