@@ -9,15 +9,16 @@
 brunogayet/brunogayet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Bruno Gayet Vieira Souza — Software Engineer | Product & Tech Lead
+👋 Bruno Gayet Vieira Souza — Software Engineer with a strong interest in product-driven development.
 
-I build software and lead cross-functional teams to deliver reliable, scalable products.  
-Over 15 years working across frontend, backend, data, and DevOps—bridging product strategy with hands-on engineering.
+I enjoy building clean, reliable applications and shaping simple solutions for real problems.  
+My background mixes engineering and product, which helps me connect technical decisions with user needs.
 
 **Focus areas**
 - Product-led engineering, architecture & technical leadership  
 - Cloud-native apps, CI/CD, test automation (Python/pytest)  
-- JS/TS ecosystem (React, Node.js) and data/analytics workflows  
+- JS/TS ecosystem (React, Node.js) and data/analytics workflows
+- SQL databases and data/analytics workflows  
 - Systems integration at enterprise scale
 
 **Currently exploring**
