@@ -17,11 +17,11 @@ I build scalable products that combine data, automation, and AI to turn complex 
 
 ## 🧰 Tech Stack
 
-- **Backend:** Node.js, Python (FastAPI)
-- **Frontend:** React, Angular
+- **Backend:** Node.js (Express, Fastify), Python (FastAPI, Flask)
+- **Frontend:** React, Next.js, Angular
 - **AI / Data:** OpenAI, LLMs, RAG, data pipelines
 - **Cloud & Infra:** Azure, Docker
-- **Databases:** PostgreSQL, SQL Server, Cosmos DB
+- **Databases:** PostgreSQL, MySQL, SQL Server, Cosmos DB
 - **Tools:** Redis, APIs, automation workflows
 
 ---
