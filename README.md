@@ -1,32 +1,47 @@
-<!---
-- 👋 Hi, I’m @brunogayet
-- 👀 I’m interested in developing my skills by delivering value and helping the world to be a better place
-- 🌱 I’m currently improving my Javascript skills with a focus on the entire React ecosystem
-- 💞️ I'm looking to collaborate on an amazing project to deliver amazing products
-- 📫 You can reach me by sending an email to brunogayet@gmail.com
+# 👋 Hi, I'm Bruno
 
+AI Software Engineer & Product Builder focused on AI-native systems, backend architecture, and intelligent workflows.
 
-brunogayet/brunogayet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-👋 Bruno Gayet Vieira Souza — Software Engineer with a strong interest in product-driven development.
+I build scalable products that combine data, automation, and AI to turn complex problems into simple, usable solutions.
 
-I enjoy building clean, reliable applications and shaping simple solutions for real problems.  
-My background mixes engineering and product, which helps me connect technical decisions with user needs.
+---
 
-**Focus areas**
-- Product-led engineering, architecture & technical leadership  
-- Cloud-native apps, CI/CD, test automation (Python/pytest)  
-- JS/TS ecosystem (React, Node.js) and data/analytics workflows
-- SQL databases and data/analytics workflows  
-- Systems integration at enterprise scale
+## 🚀 What I'm focused on
 
-**Currently exploring**
-- Kubernetes, GitOps, and Ansible for automation at scale
+- Building AI-native applications (LLMs, automation, intelligent pipelines)
+- Designing scalable backend architectures (Node.js, Python)
+- Creating data-driven products and decision systems
+- Integrating AI into real-world workflows (beyond prototypes)
 
-**How I work**
-- Align outcomes with business goals, design pragmatic architectures, mentor engineers, and iterate with measurable impact.
+---
 
-**Connect**
-- ✉️ brunogayet@gmail.com  
-- 🔗 [linkedin.com/in/bruno-gayet](https://www.linkedin.com/in/bruno-gayet/)
+## 🧰 Tech Stack
+
+- **Backend:** Node.js, Python (FastAPI)
+- **Frontend:** React, Angular
+- **AI / Data:** OpenAI, LLMs, RAG, data pipelines
+- **Cloud & Infra:** Azure, Docker
+- **Databases:** PostgreSQL, SQL Server, Cosmos DB
+- **Tools:** Redis, APIs, automation workflows
+
+---
+
+## 🧠 What I'm building
+
+- AI-powered systems for automation and decision-making
+- Backend services for data processing and orchestration
+- Intelligent pipelines that transform data into actionable insights
+
+---
+
+## 🧭 How I work
+
+- Product-driven engineering: connecting business goals to technical solutions
+- Focus on simplicity, scalability, and real-world impact
+- Iterative development with measurable outcomes
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/bruno-gayet
